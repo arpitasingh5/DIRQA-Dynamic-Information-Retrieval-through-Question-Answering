@@ -1,6 +1,6 @@
 Mostly models for qa work on long text or short text
 They work better on short texts
-But mscqa ka model has combined those to and made it possible for only 1 model to be able to good at both  and also most of long text models work slow toh training speed bhi badhai about 1.5x. 
+But QAIT  model has combined approach and made it possible for only 1 model to be able to good at both  and also most of long text models work slow toh training speed bhi badhai about 1.5x. 
 
 Its a multi step process to find an answer
 So they have action and states there , where there are 2 non terminal states and 1 terminal state
