@@ -11,4 +11,4 @@ Then after which this is run in multiple steps mostly they have and answer in ma
 Improvements they have suggested is if there can be any more states which can essentially reduce the no. Of steps taken to find an answer based on an action generator which decided which step to be taken next.
 
 <br></br>
-<b> Reviewed by Arpita Singh (arpita5572@gmail.com)</b>
+<b> Reviewed by Gaurav Sinha(gauravsinha952@gmail.com) and  Arpita Singh (arpita5572@gmail.com) </b>
